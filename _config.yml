@@ -276,6 +276,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -290,3 +295,15 @@ defaults:
       comments: # true
       share: true
       related: true
+  # research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "research"      
