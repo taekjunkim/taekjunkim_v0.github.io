@@ -306,4 +306,4 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "research"      
+        nav: research      
