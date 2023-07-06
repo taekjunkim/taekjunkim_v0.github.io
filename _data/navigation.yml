@@ -12,3 +12,11 @@ main:
   #   url: /collection-archive/
   #- title: "Sitemap"
   #   url: /sitemap/
+
+research:
+  - title: Shape-Texture processing
+    children:
+      - title: "JN2019"
+        url: /research/JN2019/
+      - title: "JN2022"
+        url: /research/JN2022/
