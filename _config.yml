@@ -297,7 +297,7 @@ defaults:
       related: true
   # research
   - scope:
-      path: "_pages/research"
+      path: ""
       type: research
     values:
       layout: single
