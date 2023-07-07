@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Taekjun Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a neuroscientist studying visual information processing"
   location         : "Seattle, WA"
   email            :
