@@ -16,9 +16,9 @@ main:
 research:
   - title: Shape-Texture processing
     children:
-      - title: "JN2019"
+      - title: "JNeurosci2019"
         url: /research/JN2019/
-      - title: "JN2022"
+      - title: "JNeurosci2022"
         url: /research/JN2022/
 
 # sidebar navigation list sample
