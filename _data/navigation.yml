@@ -20,6 +20,10 @@ research:
         url: /research/JN2019/
       - title: "JNeurosci2022"
         url: /research/JN2022/
+  - title: Motion processing
+    children:
+      - title: "CurrBio2023"
+        url: /research/CB2023/
 
 # sidebar navigation list sample
 sidebar-sample:
