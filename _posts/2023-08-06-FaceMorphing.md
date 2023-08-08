@@ -1,5 +1,6 @@
 ---
 title: "Face Morphing"
+classes: wide
 categories:
   - Deep Neural Network 
 ---
