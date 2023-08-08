@@ -7,7 +7,7 @@ category: "Deep Neural Network"
 
 ## **Python Implementation of Face Morphing**
 
-> I implemented face morphing using opencv and scipy. 
+> I implemented face morphing using opencv and scipy.  
 > This colab notebook shows "Face morphing procedures" step by step. 
 
 ```python
