@@ -1,5 +1,6 @@
 ---
 title: "Post: Standard"
+classes: wide
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
