@@ -5,12 +5,11 @@ categories:
   - Deep Neural Network 
 ---
 
+I implemented face morphing using opencv and scipy.  This colab notebook shows "Face morphing procedures" step by step. 
+
 <a href="https://colab.research.google.com/github/taekjunkim/ImageProcessing/blob/main/FaceMorphing/FaceMorphing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## **Python Implementation of Face Morphing**
-
-> I implemented face morphing using opencv and scipy.  
-> This colab notebook shows "Face morphing procedures" step by step. 
 
 ```python
 ### import modules
