@@ -1,9 +1,10 @@
-<a href="https://colab.research.google.com/github/taekjunkim/ImageProcessing/blob/main/FaceMorphing/FaceMorphing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
 ---
 title: "Face Morphing"
-category: "Deep Neural Network"
+categories:
+  - Deep Neural Network
 ---
+
+<a href="https://colab.research.google.com/github/taekjunkim/ImageProcessing/blob/main/FaceMorphing/FaceMorphing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## **Python Implementation of Face Morphing**
 
