@@ -57,7 +57,7 @@ imgB_face = detect_face(imgB, 2);
 
 
     
-![png](/_posts/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_5_0.png)
+![png](/assets/images/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_5_0.png)
     
 
 
@@ -102,7 +102,7 @@ imgB = resize_crop(imgB, imgB_face, 2);
 
 
     
-![png](/_posts/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_7_1.png)
+![png](/assets/images/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_7_1.png)
     
 
 
@@ -153,7 +153,7 @@ imgB_landmarks = get_landmarks(imgB, 2);
 
 
     
-![png](/_posts/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_9_0.png)
+![png](/assets/images/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_9_0.png)
     
 
 
@@ -186,7 +186,7 @@ plot_triangulation(imgB, imgB_landmarks, 2);
 
 
     
-![png](/_posts/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_11_0.png)
+![png](/assets/images/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_11_0.png)
     
 
 
@@ -369,7 +369,7 @@ Image(open('EmmaWatson.gif','rb').read())
 
 
     
-![png](/_posts/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_15_0.png)
+![png](/assets/images/2023-08-06-FaceMorphing_files/./2023-08-06-FaceMorphing_15_0.png)
     
 
 
