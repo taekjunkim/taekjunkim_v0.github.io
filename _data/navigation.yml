@@ -24,6 +24,12 @@ research:
     children:
       - title: "CurrBio2023"
         url: /research/CB2023/
+  - title: Reviews
+    children:
+      - title: "AnnRev2020"
+        url: /research/AR2020/
+      - title: "CurrOpNB2019"
+        url: /research/CONB2019/  
 
 # sidebar navigation list sample
 sidebar-sample:
