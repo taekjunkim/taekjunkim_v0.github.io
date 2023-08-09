@@ -26,10 +26,10 @@ research:
         url: /research/CB2023/
   - title: Reviews
     children:
-      - title: "AnnRev2020"
+      - title: "AnnuRevVisSci2020"
         url: /research/AR2020/
-      - title: "CurrOpNB2019"
-        url: /research/CONB2019/  
+      - title: "CurrOpinNeurobiol2019"
+        url: /research/CON2019/  
 
 # sidebar navigation list sample
 sidebar-sample:
