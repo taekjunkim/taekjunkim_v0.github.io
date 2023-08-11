@@ -16,32 +16,32 @@ main:
 research:
   - title: High Level Vision
     children:
-      - title: "area V4: Global Motion Processing"
+      - title: "Global Motion Processing"
         url: /research/CB2023/
-      - title: "area V4: Texture Perception"
+      - title: "Texture Perception"
         url: /research/JN2022/
-      - title: "area V4: Shape-Texture Encoding"
+      - title: "Shape-Texture Encoding"
         url: /research/JN2019/
   - title: Low Level Vision
     children:
       - title: "Psychophysics: Binocular Integration"
         url: /research/EJN2017/
-      - title: "area V1: Direction Selectivity"
+      - title: "Direction Selectivity"
         url: /research/EJN2017/
-      - title: "area V1: TMS"
+      - title: "Transcranial Magnetic Stimulation"
         url: /research/BS2015/
-      - title: "area V1: Spike-LFP Covariation"
+      - title: "Spike-LFP Covariation"
         url: /research/P2015/
-      - title: "area V1: Cortical Connection"
+      - title: "Cortical Connection"
         url: /research/N2014/
-      - title: "area V1: SpatioTemporal Encoding"
+      - title: "SpatioTemporal Encoding"
         url: /research/P2012/
         
   - title: Reviews
     children:
-      - title: "macaque area V4"
+      - title: "Macaque Area V4"
         url: /research/AR2020/
-      - title: "Ventral visual pathway"
+      - title: "Ventral Visual Pathway"
         url: /research/CON2019/  
 
 # sidebar navigation list sample
