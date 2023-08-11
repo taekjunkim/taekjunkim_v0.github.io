@@ -14,16 +14,29 @@ main:
   #   url: /sitemap/
 
 research:
-  - title: Shape-Texture processing
+  - title: High Level Vision
     children:
-      - title: "JNeurosci2019"
-        url: /research/JN2019/
-      - title: "JNeurosci2022"
-        url: /research/JN2022/
-  - title: Motion processing
-    children:
-      - title: "CurrBio2023"
+      - title: "Global Motion Processing"
         url: /research/CB2023/
+      - title: "Texture Perception"
+        url: /research/JN2022/
+      - title: "Shape-Texture Encoding"
+        url: /research/JN2019/
+  - title: Low Level Vision
+    children:
+      - title: "Binocular Integration"
+        url: /research/EJN2017/
+      - title: "Direction Selectivity V1"
+        url: /research/EJN2017/
+      - title: "TMS V1"
+        url: /research/BS2015/
+      - title: "Spike-LFP Covariation V1"
+        url: /research/P2015/
+      - title: "Cortical Connection V1"
+        url: /research/N2014/
+      - title: "SpatioTemporal Encoding V1"
+        url: /research/P2012/
+        
   - title: Reviews
     children:
       - title: "AnnuRevVisSci2020"
