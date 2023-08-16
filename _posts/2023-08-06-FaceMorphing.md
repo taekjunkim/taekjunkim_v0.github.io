@@ -2,7 +2,7 @@
 title: "Face Morphing"
 classes: wide 
 categories:
-  - Vision Science 
+  - Computer Vision 
 ---
 
 I implemented face morphing using opencv and scipy.  This colab notebook shows "Face morphing procedures" step by step. 
