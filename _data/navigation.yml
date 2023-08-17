@@ -6,6 +6,8 @@ main:
     url: /research/CB2023/
   - title: "Personal"
     url: /personal/
+  - title: "Resources"
+    url: /resource/    
   #- title: "Sample Posts"
   #   url: /year-archive/ 
   #- title: "Sample Collections"
