@@ -1,7 +1,13 @@
+---
+title: "SQL using sqlite3 library"
+classes: wide 
+categories:
+  - Data Science
+---
+Python SQLite3 module is used to integrate the SQLite database with Python. 
+This notebook shows how to run SQL queries from a Jupyter Notebook using Chinook dataset and practice questions. 
+
 <a href="https://colab.research.google.com/github/taekjunkim/OnlineCourses/blob/main/SQL/SQL_exercise.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-
-# **SQL using sqlite3 library**
-
 
 ```python
 from google.colab import drive
