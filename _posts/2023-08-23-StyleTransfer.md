@@ -210,8 +210,7 @@ plt.axis('off')
 
 
     
-![png](StyleTransfer_files/StyleTransfer_11_1.png)
-    
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_11_1.png)
 
 
 ## **Get content & style features using vgg19**
@@ -323,7 +322,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_1.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_1.png)
     
 
 
@@ -332,7 +331,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_3.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_3.png)
     
 
 
@@ -341,7 +340,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_5.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_5.png)
     
 
 
@@ -350,7 +349,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_7.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_7.png)
     
 
 
@@ -359,7 +358,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_9.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_9.png)
     
 
 
@@ -368,7 +367,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_11.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_11.png)
     
 
 
@@ -377,7 +376,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_13.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_13.png)
     
 
 
@@ -386,7 +385,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_15.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_15.png)
     
 
 
@@ -395,7 +394,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_17.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_17.png)
     
 
 
@@ -404,7 +403,7 @@ for i in range(500):
 
 
     
-![png](StyleTransfer_files/StyleTransfer_18_19.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_18_19.png)
     
 
 
@@ -429,7 +428,7 @@ final_img.save(img_dir+'/Output/Taekjun_Picasso_Avignon_500.jpg')
 
 
     
-![png](StyleTransfer_files/StyleTransfer_19_0.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_19_0.png)
     
 
 
@@ -462,6 +461,6 @@ all_img.save(img_dir+'/Output/Taekjun_all500.jpg')
 
 
     
-![png](StyleTransfer_files/StyleTransfer_20_0.png)
+![png](/assets/images/2023-08-23-StyleTransfer/StyleTransfer_20_0.png)
     
 
