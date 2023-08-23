@@ -1,9 +1,11 @@
 ---
 title: "Personal"
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/system-web.jpg
+excerpt: >
+  Personal projects for fun and to practice and learn new skills <br />
 classes: wide
 permalink: /personal/
 layout: categories
-date: 2016-02-24T03:02:20+00:00
 ---
-
-> Personal projects for fun and to practice and learn new skills 
