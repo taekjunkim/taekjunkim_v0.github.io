@@ -1,16 +1,7 @@
 ---
 title: "Layout: Header Image (Horizontal)"
 header:
-  image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - edge case
-  - featured image
-  - image
-  - layout
+  image: /assets/images/system-web.jpg
 ---
 
 This post should display a **header image**, if the theme supports it.
