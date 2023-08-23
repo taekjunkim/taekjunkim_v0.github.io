@@ -5,8 +5,6 @@ categories:
   - Computer Vision
 ---
 
-## **Style transfer**
-
 Style transfer is a technique that uses abstracted features from two or more images and combine them in an output image that carry mixed features, resulting an application that can transfer the painting style from an image to another.
 
 <a href="https://colab.research.google.com/github/taekjunkim/pytorch_cnns/blob/master/StyleTransfer/StyleTransfer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
