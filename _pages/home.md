@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/system-web.jpg
