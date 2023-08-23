@@ -11,3 +11,5 @@ excerpt: >
 ---
 
 ## About me
+I’m Taekjun, a neuroscientist studying how visual information is encoded, transmitted in the brain to create a unified representation of the visual scene.
+My experimental approaches include neurophysiological recordings, computational modeling and human psychophysics. 
