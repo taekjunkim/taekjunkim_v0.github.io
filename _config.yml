@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Taekjun Kim"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Acting Assistant Professor, University of Washington"
+  bio              : "Acting Assistant Professor, <br> University of Washington"
   location         : "Seattle, WA"
   email            :
   links:
