@@ -10,8 +10,11 @@ permalink: /resources/
 layout: single
 ---
 
-![image](https://www.rd.com/wp-content/uploads/2018/02/25_Hilarious-Photos-that-Will-Get-You-Through-the-Week_280228817_Doty911.jpg){: style="float: left; margin-right: 20px; width: 200px"}
+![image](/assets/images/resources/aai_kaist.jpg){: style="float: left; margin-right: 20px; width: 300px"}
 
-# Headline 
+# AAI Lab KAIST (Korean)
+> Data structure and algorithms
+[https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD](https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD)
+[https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q](https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q)
 
-Some text.
+
