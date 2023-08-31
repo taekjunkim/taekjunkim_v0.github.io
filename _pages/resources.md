@@ -10,16 +10,16 @@ permalink: /resources/
 layout: single
 ---
 
-<br><br><br>
+<br><br>
 # Statistics for Machine Learning
 <img align="left" width="33%" src="/assets/images/resources/statquest.png">
 
 ### StatQuest with Josh Starmer
 - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
-<br><br><br><br><br>
-
-
 <br><br><br>
+
+
+<br><br>
 # Data Structure and Algorithms
 <img align="left" width="33%" src="/assets/images/resources/aai_kaist.jpg">
 
