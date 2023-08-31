@@ -18,7 +18,7 @@ layout: single
 - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
 <br><br><br><br><br>
 
-
+---
 # Data Structure and Algorithms
 <img align="left" width="33%" src="/assets/images/resources/aai_kaist.jpg">
 
