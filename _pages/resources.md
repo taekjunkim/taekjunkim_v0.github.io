@@ -13,7 +13,7 @@ layout: single
 # Statistics for Machine Learning
 <p>
 <div class=pull-left>
-(/assets/images/resources/statquest.png){: style="float: left; margin-right: 10px; width: 300px"}
+![image](/assets/images/resources/statquest.png){: style="float: left; margin-right: 10px; width: 300px"}
 </div>
 ## StatQuest with Josh Starmer <br>
 - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
