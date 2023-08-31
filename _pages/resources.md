@@ -18,6 +18,7 @@ layout: single
 <br><br><br><br><br>
 
 
+<br><br>
 # Statistics for Machine Learning
 <img align="left" width="33%" src="/assets/images/resources/statquest.png"></img>
 ### StatQuest with Josh Starmer
