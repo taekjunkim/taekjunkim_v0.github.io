@@ -12,7 +12,7 @@ layout: single
 
 
 # Statistics for Machine Learning
-<img align="left" height="150px" width="300px" src="/assets/images/resources/statquest.png">  <br><br>
+<img align="left" height="150px" width="300px" src="/assets/images/resources/statquest.png">
 ### StatQuest with Josh Starmer
 - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
 <br><br><br><br><br>
