@@ -11,6 +11,13 @@ layout: single
 ---
 
 
+# Convolutional Neural Networks for Visual Recognition
+<img align="left" width="33%" src="/assets/images/resources/cs231a_stanford.png"></img>
+### Stanford CS231 Lecture
+- <span style="font-size: small;">[https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)</span> 
+<br><br><br><br><br>
+
+
 # Statistics for Machine Learning
 <img align="left" width="33%" src="/assets/images/resources/statquest.png"></img>
 ### StatQuest with Josh Starmer
