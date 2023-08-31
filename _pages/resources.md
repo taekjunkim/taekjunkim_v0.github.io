@@ -14,7 +14,7 @@ layout: single
 <div style="display: flex; align-items: center;">
   <img src="/assets/images/resources/statquest.png" alt="Image" style="width: 300px; margin-right: 20px;">
   ## StatQuest with Josh Starmer <br>
-  - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
+  - [https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured) 
 </div>
 
 
