@@ -10,27 +10,18 @@ permalink: /resources/
 layout: single
 ---
 
+<p>
 # Statistics for Machine Learning
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="/assets/images/resources/statquest.png" alt="">
-  </div>
-  <div>
-    <h2>SStatQuest with Josh Starmer</h2>
-    <p> - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> </p>
-  </div>
-</div>
+![image](/assets/images/resources/aai_kaist.jpg){: style="float: left; margin-right: 10px; width: 300px"}
+## StatQuest with Josh Starmer
+- <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span>
+</p>
 
-
-
+<p>
 # Data structure and algorithms
-<table>
-  <tr>
-    <td>![image](/assets/images/resources/aai_kaist.jpg){: style="float: left; margin-right: 10px; width: 300px"}</td>
-    <td>**AAI Lab KAIST (Korean)** 
-      - <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD](https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD)</span> 
-      - <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q](https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q)</span>      
-    </td>
-  </tr>
-</table>
+![image](/assets/images/resources/aai_kaist.jpg){: style="float: left; margin-right: 10px; width: 300px"}
+## AAI Lab KAIST (Korean)
+- <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD](https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD)</span> 
+- <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q](https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q)</span>      
+</p>
 
