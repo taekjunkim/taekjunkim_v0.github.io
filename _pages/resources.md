@@ -11,12 +11,17 @@ layout: single
 ---
 
 # Statistics for Machine Learning
-<table>
-  <tr>
-    <td>![image](/assets/images/resources/statquest.png){: style="float: left; margin-right: 10px; width: 300px"}</td>
-    <td>**StatQuest with Josh Starmer** <br> - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span></td>
-  </tr>
-</table>
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="/assets/images/resources/statquest.png" alt="">
+  </div>
+  <div>
+    <h2>SStatQuest with Josh Starmer</h2>
+    <p> - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> </p>
+  </div>
+</div>
+
+
 
 # Data structure and algorithms
 <table>
