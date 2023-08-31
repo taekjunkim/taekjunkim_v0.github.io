@@ -12,7 +12,7 @@ layout: single
 
 
 # Convolutional Neural Networks for Visual Recognition
-<img align="left" width="33%" src="/assets/images/resources/cs231a_stanford.png">    
+<img width="33%" src="/assets/images/resources/cs231a_stanford.png" style="float: left;">    
 
 ### Stanford CS231 Lecture
 - <span style="font-size: small;">[https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)</span> 
@@ -20,7 +20,7 @@ layout: single
 
 
 # Statistics for Machine Learning
-<img align="left" width="33%" src="/assets/images/resources/statquest.png">
+<img width="33%" src="/assets/images/resources/statquest.png" style="float: left;">  
 
 ### StatQuest with Josh Starmer
 - <span style="font-size: small;">[https://www.youtube.com/c/joshstarmer/featured](https://www.youtube.com/c/joshstarmer/featured)</span> 
@@ -28,7 +28,7 @@ layout: single
 
 
 # Data Structure and Algorithms
-<img align="left" width="33%" src="/assets/images/resources/aai_kaist.jpg">
+<img width="33%" src="/assets/images/resources/aai_kaist.jpg" style="float: left;">    
 
 ### AAI Lab KAIST (Korean)
 - <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD](https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD)</span> 
