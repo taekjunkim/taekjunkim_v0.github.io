@@ -11,6 +11,14 @@ layout: single
 ---
 
 
+# MediaPipe
+<img width="33%" src="/assets/images/resources/MediaPipe.png" style="float:left; margin-right:30px;">    
+
+### <span style="color:DarkRed">MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.</span>
+  - <span style="font-size:small;">[https://google.github.io/mediapipe/](https://google.github.io/mediapipe/)</span> 
+<br clear="left"/><br>
+
+
 # Practical Deep Learning for Coders
 <img width="33%" src="/assets/images/resources/fast-ai.jpeg" style="float:left; margin-right:30px;">    
 
