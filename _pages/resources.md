@@ -11,6 +11,13 @@ layout: single
 ---
 
 
+# Practical Deep Learning for Coders
+<img width="33%" src="/assets/images/resources/fast-ai.jpeg" style="float: left; margin-right: 10px">    
+
+### Jeremy Howard from fast.ai
+- <span style="font-size: small;">[https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM](https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)</span> 
+<br clear="left"/><br>
+
 # Convolutional Neural Networks for Visual Recognition
 <img width="33%" src="/assets/images/resources/cs231a_stanford.png" style="float: left; margin-right: 10px">    
 
