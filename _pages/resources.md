@@ -11,10 +11,10 @@ layout: single
 ---
 
 
-# MediaPipe: cross-platform, customizable ML solutions for live and streaming media
+# MediaPipe
 <img width="33%" src="/assets/images/resources/MediaPipe.png" style="float:left; margin-right:30px;">    
 
-### <span style="color:DarkRed">MediaPipe from Google</span>
+### <span style="color:DarkRed">Cross-platform, customizable ML solutions for live and streaming media</span>
   - <span style="font-size:small;">[https://google.github.io/mediapipe/](https://google.github.io/mediapipe/)</span> 
 <br clear="left"/><br>
 
