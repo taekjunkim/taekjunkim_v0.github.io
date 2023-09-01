@@ -54,7 +54,7 @@ layout: single
 # Data Structure and Algorithms
 <img width="33%" src="/assets/images/resources/aai_kaist.jpg" style="float:left; margin-right:30px;">    
 
-### <span style="color:DarkRed">AAI Lab KAIST (Korean)</span>
+### <span style="color:MidnightBlue">AAI Lab KAIST (Korean)</span>
   - <span style="font-size:small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD](https://www.youtube.com/playlist?list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD)</span> 
   - <span style="font-size:small;">[https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q](https://www.youtube.com/playlist?list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q)</span>
 <br clear="left"/><br>
