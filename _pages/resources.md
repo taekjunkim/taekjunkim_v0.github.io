@@ -11,10 +11,10 @@ layout: single
 ---
 
 
-# MediaPipe
+# MediaPipe: cross-platform, customizable ML solutions for live and streaming media
 <img width="33%" src="/assets/images/resources/MediaPipe.png" style="float:left; margin-right:30px;">    
 
-### <span style="color:DarkRed">MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.</span>
+### <span style="color:DarkRed">MediaPipe from Google</span>
   - <span style="font-size:small;">[https://google.github.io/mediapipe/](https://google.github.io/mediapipe/)</span> 
 <br clear="left"/><br>
 
@@ -27,10 +27,10 @@ layout: single
 <br clear="left"/><br>
 
 
-# Convolutional Neural Networks for Visual Recognition
+# Stanford CS231 Lecture
 <img width="33%" src="/assets/images/resources/cs231a_stanford.png" style="float:left; margin-right:30px;">    
 
-### <span style="color:DarkRed">Stanford CS231 Lecture</span>
+### <span style="color:DarkRed">Convolutional Neural Networks for Visual Recognition</span>
   - <span style="font-size:small;">[https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)</span> 
 <br clear="left"/><br>
 
