@@ -11,6 +11,14 @@ layout: single
 ---
 
 
+# First Principles of Computer Vision
+<img width="33%" src="/assets/images/resources/FPCV.png" style="float:left; margin-right:30px;">    
+
+### <span style="color:MidnightBlue">Lecture series presented by Prof. Shree Nayar, Columbia University</span>
+  - <span style="font-size:small;">[https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/featured](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/featured)</span> 
+<br clear="left"/><br>
+
+
 # MediaPipe
 <img width="33%" src="/assets/images/resources/MediaPipe.png" style="float:left; margin-right:30px;">    
 
