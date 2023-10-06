@@ -11,6 +11,14 @@ layout: single
 ---
 
 
+# Ray Tracing From Scratch in Python
+<img width="33%" src="/assets/images/resources/ray_tracing.png" style="float:left; margin-right:30px;">    
+
+### <span style="color:MidnightBlue">A medium article written by Omar Aflak</span>
+  - <span style="font-size:small;">[https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)</span> 
+<br clear="left"/><br>
+
+
 # First Principles of Computer Vision
 <img width="33%" src="/assets/images/resources/FPCV.png" style="float:left; margin-right:30px;">    
 
