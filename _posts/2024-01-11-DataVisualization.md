@@ -12,7 +12,7 @@ reference: https://pixso.net/kr/news/data-visualization-design/
 - Relationship
 - Distribution
 - Composition 
-![](/assets/images/2024-01-11-DataVisualization/d1490dd59587344d50bf6ad8d83faa52.png)
+![png](/assets/images/2024-01-11-DataVisualization/d1490dd59587344d50bf6ad8d83faa52.png)
 
 
 #### 1. [[Bar graph]] <br>
@@ -35,12 +35,12 @@ A data visualization design for determining the correlation between two variable
 
 #### 7. [[Mosaic plot]] <br>
 A data visualization design used to show the relationship between two or more categorical data points. The lengths of the two axes represent the values of each variable, creating a ratio.
-![](/assets/images/2024-01-11-DataVisualization/71d5ca341ee0ce9918c6e133f7eba9d8.png)
+![png](/assets/images/2024-01-11-DataVisualization/71d5ca341ee0ce9918c6e133f7eba9d8.png)
 
 #### 8. [[Treemap chart]] <br>
 A treemap chart is created using a data visualization technique that visualizes hierarchical data in the form of nested rectangles. The tree-like structure uses rectangles of decreasing sizes, hence called “nesting.” The data in a treemap chart is organized using rectangles. The plot colors and dimensions of the rectangles are calculated in accordance with the quantities variables.
-![](/assets/images/2024-01-11-DataVisualization/373b2ec0eb39a9a9bd9b13b4ce80cdb0.png)
+![png](/assets/images/2024-01-11-DataVisualization/373b2ec0eb39a9a9bd9b13b4ce80cdb0.png)
 
 #### 9. [[Heatmap]] <br>
 Heatmaps visualise data through variations in colouring. When applied to a tabular format, Heatmaps are useful for cross-examining multivariate data, through placing variables in the rows and columns and colouring the cells within the table. Heatmaps are good for showing variance across multiple variables, revealing any patterns, displaying whether any variables are similar to each other, and for detecting if any correlations exist.
-![](/assets/images/2024-01-11-DataVisualization/d8b1960db1c5ed7b370ce527286bd6a1.png)
+![png](/assets/images/2024-01-11-DataVisualization/d8b1960db1c5ed7b370ce527286bd6a1.png)
