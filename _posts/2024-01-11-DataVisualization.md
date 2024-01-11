@@ -8,11 +8,11 @@ categories:
 reference: https://pixso.net/kr/news/data-visualization-design/
 
 ### Andrew Abela's Chart selection
-    - Comparison
-    - Relationship
-    - Distribution
-    - Composition 
-	![](assets/images/2024-01-11-DataVisualization/d1490dd59587344d50bf6ad8d83faa52.png)
+- Comparison
+- Relationship
+- Distribution
+- Composition 
+![](assets/images/2024-01-11-DataVisualization/d1490dd59587344d50bf6ad8d83faa52.png)
 
 1. [[Bar graph]] <br>
 	A graph that shows the frequency or amount of a variable as a function of the length of the bars. It's the most basic data visualization design. A characteristic of bar graphs is that they deal with discrete data. As such, they are characterized by a gap between each bar.
