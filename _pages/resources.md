@@ -11,6 +11,14 @@ layout: single
 ---
 
 
+# Neuroscience for machine learners
+<img width="33%" src="/assets/images/resources/ray_tracNeuro4ML.png" style="float:left; margin-right:30px;">    
+
+### <span style="color:MidnightBlue">A freely available short course on neuroscience for people with a machine learning background. Designed by Dan Goodman and Marcus Ghosh</span>
+  - <span style="font-size:small;">[https://neuro4ml.github.io/](https://neuro4ml.github.io/)</span> 
+<br clear="left"/><br>
+
+
 # Ray Tracing From Scratch in Python
 <img width="33%" src="/assets/images/resources/ray_tracing.png" style="float:left; margin-right:30px;">    
 
