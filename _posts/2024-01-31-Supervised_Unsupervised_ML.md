@@ -1,5 +1,5 @@
 ---
-title: "Week 1-1. Supervised vs. Unsupervised ML"
+title: "Supervised vs. Unsupervised ML"
 categories:
   - Machine Learning 
 excerpt: "A post with custom sidebar content."
