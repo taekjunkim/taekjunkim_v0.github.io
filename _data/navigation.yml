@@ -49,7 +49,7 @@ sidebar_ML:
   - title: Supervised ML
     children:
       - title: "Supervised vs. Unsupervised"
-        url: "https://taekjunkim.github.io/machine%20learning/Supervised_Unsupervised_ML/"
+        url: "https://taekjunkim.github.io/machine%20learning/w1.Supervised_Unsupervised_ML/"
       - title: "Regression model"
         url: /research/JN2022/
       - title: "Gradient descent"
