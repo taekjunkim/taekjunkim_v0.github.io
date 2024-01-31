@@ -49,9 +49,9 @@ sidebar_ML:
   - title: Supervised ML
     children:
       - title: "Supervised vs. Unsupervised"
-        url: /posts/w1.Supervised_Unsupervised_ML/
+        url: /study/01.Supervised_Unsupervised_ML/
       - title: "Regression model"
-        url: /posts/w2.Regression_model/
+        url: /study/02.Regression_model/
       - title: "Gradient descent"
         url: /research/JN2019/
       - title: "Multiple linear regression"
