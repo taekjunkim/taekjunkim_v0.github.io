@@ -281,7 +281,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  posts:
+  study:
     output: true
     permalink: /:collection/:path/
 
@@ -318,3 +318,13 @@ defaults:
       comments: false
       sidebar:
         nav: research      
+  # study
+  - scope:
+      path: ""
+      type: study
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
