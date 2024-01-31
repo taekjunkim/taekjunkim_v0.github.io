@@ -49,9 +49,9 @@ sidebar_ML:
   - title: Supervised ML
     children:
       - title: "Supervised vs. Unsupervised"
-        url: "https://taekjunkim.github.io/machine%20learning/w1.Supervised_Unsupervised_ML/"
+        url: /docs/01.Supervised_Unsupervised_ML/
       - title: "Regression model"
-        url: "https://taekjunkim.github.io/machine%20learning/w2.Regression_model/"
+        url: /docs/02.Regression_model/
       - title: "Gradient descent"
         url: /research/JN2019/
       - title: "Multiple linear regression"
