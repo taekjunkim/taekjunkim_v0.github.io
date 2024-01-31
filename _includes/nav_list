@@ -18,10 +18,12 @@
         {% if nav.children != null %}
         <ul>
           {% for child in nav.children %}
-            <a href="{% if child.url | absolute_url == child.url %}{{ child.url | absolute_url }}{% else %}{{ child.url | relative_url }}{% endif %}"
+              <li>
+                <a href="{% if child.url | absolute_url == child.url %}{{ child.url | absolute_url }}{% else %}{{ child.url | relative_url }}{% endif %}"
                   {% if child.url == page.url %} class="active"{% endif %}>
                   {{ child.title }}
-            </a>
+                </a>
+              </li>
           {% endfor %}
         </ul>
         {% endif %}
