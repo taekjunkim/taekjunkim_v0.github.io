@@ -58,7 +58,7 @@ sidebar_ML:
       - title: "Multiple linear regression"
         url: /machinelearning/w4.MultipleLinearRegression/
       - title: "Logistic regression"
-        url: /research/JN2019/
+        url: /machinelearning/w5.LogisticRegression/
   - title: Advanced learning algorithm
     children:
       - title: "Neural network architecture"
