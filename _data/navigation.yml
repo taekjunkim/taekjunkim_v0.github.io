@@ -4,8 +4,8 @@ main:
     url: /CV/
   - title: "Research"
     url: /research/CB2023/
-  - title: "Study"
-    url: /study/
+  - title: "Personal"
+    url: /personal/
   - title: "Resources"
     url: /resources/    
   #- title: "Sample Posts"
@@ -49,9 +49,9 @@ sidebar_ML:
   - title: Supervised ML
     children:
       - title: "Supervised vs. Unsupervised"
-        url: /study/01.Supervised_Unsupervised_ML/
+        url: /MachingLearning/w1.Supervised_Unsupervised_ML/
       - title: "Regression model"
-        url: /study/02.Regression_model/
+        url: /MachingLearning/w2.Regression_model/
       - title: "Gradient descent"
         url: /research/JN2019/
       - title: "Multiple linear regression"
