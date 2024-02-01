@@ -2,7 +2,7 @@
 title: "How to create a NWB file for electrophysiology data"
 classes: wide 
 categories:
-  - Data Science
+  - DataScience
 ---
 
 
