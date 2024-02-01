@@ -2,7 +2,7 @@
 title: "SQL using sqlite3 library"
 classes: wide 
 categories:
-  - Data Science
+  - DataScience
 ---
 Python SQLite3 module is used to integrate the SQLite database with Python. 
 This notebook shows how to run SQL queries from a Jupyter Notebook using Chinook dataset and practice questions. 
