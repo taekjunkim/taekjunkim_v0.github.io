@@ -60,13 +60,12 @@ sidebar_ML:
       - title: "Logistic regression"
         url: /machinelearning/w5.LogisticRegression/
   - title: Advanced learning algorithm
+    url: /machinelearning/w6.TensorFlowImplementation/
     children:
-      - title: "Neural network architecture"
-        url: /research/EJN2017/
       - title: "TensorFlow implementation"
-        url: /research/EJN2016/
+        url: /machinelearning/w6.TensorFlowImplementation/
       - title: "What to try next"
-        url: /research/BS2015/
+        url: /machinelearning/w7.WhatToTryNext/
 
 # sidebar navigation list sample
 sidebar-sample:
