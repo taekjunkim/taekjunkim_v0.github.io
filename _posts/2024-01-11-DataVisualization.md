@@ -2,7 +2,7 @@
 title: "Data Visualization"
 classes: wide 
 categories:
-  - Data Science 
+  - DataScience 
 ---
 
 reference: https://pixso.net/kr/news/data-visualization-design/
