@@ -2,7 +2,7 @@
 title: "How to create a NWB file for optical physiology data"
 classes: wide 
 categories:
-  - Data Science
+  - DataScience
 ---
 
 
