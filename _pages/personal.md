@@ -6,6 +6,6 @@ header:
 excerpt: >
   Personal projects for fun and to practice and learn new skills <br />
 classes: wide
-permalink: /personal/
+permalink: /categories/
 layout: categories
 ---
