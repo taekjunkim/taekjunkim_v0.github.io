@@ -47,6 +47,7 @@ research:
 
 sidebar_ML:
   - title: Supervised ML
+    url: "https://taekjunkim.github.io/machinelearning/w1.Supervised_Unsupervised_ML/"
     children:
       - title: "Supervised vs. Unsupervised"
         url: "https://taekjunkim.github.io/machinelearning/w1.Supervised_Unsupervised_ML/"
