@@ -56,7 +56,7 @@ sidebar_ML:
       - title: "Gradient descent"
         url: /machinelearning/w3.GradientDescent/
       - title: "Multiple linear regression"
-        url: /research/JN2019/
+        url: /machinelearning/w4.MultipleLinearRegression/
       - title: "Logistic regression"
         url: /research/JN2019/
   - title: Advanced learning algorithm
