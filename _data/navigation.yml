@@ -47,14 +47,13 @@ research:
 
 sidebar_ML:
   - title: Supervised ML
-    url: "https://taekjunkim.github.io/machinelearning/w1.Supervised_Unsupervised_ML/"
     children:
       - title: "Supervised vs. Unsupervised"
-        url: "https://taekjunkim.github.io/machinelearning/w1.Supervised_Unsupervised_ML/"
+        url: /machinelearning/w1.Supervised_Unsupervised_ML/
       - title: "Regression model"
-        url: "https://taekjunkim.github.io/machinelearning/w2.Regression_model/"
+        url: /machinelearning/w2.Regression_model/
       - title: "Gradient descent"
-        url: "https://taekjunkim.github.io/machinelearning/w3.GradientDescent/"
+        url: /machinelearning/w3.GradientDescent/
       - title: "Multiple linear regression"
         url: /research/JN2019/
       - title: "Logistic regression"
