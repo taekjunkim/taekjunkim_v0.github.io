@@ -68,6 +68,14 @@ sidebar_ML:
         url: /machinelearning/w7.WhatToTryNext/
       - title: "Decision Tree"
         url: /machinelearning/w8.DecisionTree/        
+  - title: Unsupervised, Recommender, Reinforcement learning
+    url: /machinelearning/w9.KMeans/
+    children:
+      - title: "K-means clustering"
+        url: /machinelearning/w9.KMeans/
+      - title: "Anomaly detection"
+        url: /machinelearning/w10.AnomalyDetection/
+        
 
 # sidebar navigation list sample
 sidebar-sample:
