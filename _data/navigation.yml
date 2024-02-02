@@ -66,6 +66,8 @@ sidebar_ML:
         url: /machinelearning/w6.TensorFlowImplementation/
       - title: "What to try next"
         url: /machinelearning/w7.WhatToTryNext/
+      - title: "Decision Tree"
+        url: /machinelearning/w8.DecisionTree/        
 
 # sidebar navigation list sample
 sidebar-sample:
