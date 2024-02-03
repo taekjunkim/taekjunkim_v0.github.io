@@ -75,6 +75,8 @@ sidebar_ML:
         url: /machinelearning/w9.KMeans/
       - title: "Anomaly detection"
         url: /machinelearning/w10.AnomalyDetection/
+      - title: "Recommender system"
+        url: /machinelearning/w11.Recommendation/
         
 
 # sidebar navigation list sample
