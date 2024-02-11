@@ -46,7 +46,7 @@ research:
         url: /research/CON2019/  
 
 sidebar_DE:
-  - title: Introduction
+  - title: "Introduction"
     url: /datascience/s01.DataEcosystem/
     children:
       - title: "Data ecosystem and role of data engineering"
