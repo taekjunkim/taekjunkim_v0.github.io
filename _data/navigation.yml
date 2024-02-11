@@ -45,6 +45,13 @@ research:
       - title: "Ventral Visual Pathway"
         url: /research/CON2019/  
 
+sidebar_DE:
+  - title: Introduction
+    url: /datascience/s01.DataEcosystem/
+    children:
+      - title: "Data ecosystem and role of data engineering"
+        url: /datascience/s01.DataEcosystem/
+
 sidebar_ML:
   - title: Supervised ML
     url: /machinelearning/w1.Supervised_Unsupervised_ML/
