@@ -51,6 +51,8 @@ sidebar_DE:
     children:
       - title: "Data ecosystem and role of data engineering"
         url: /datascience/s01.DataEcosystem/
+      - title: "Data repository and Data pipeline"
+        url: /datascience/s02.DataPipelines/
 
 sidebar_ML:
   - title: Supervised ML
