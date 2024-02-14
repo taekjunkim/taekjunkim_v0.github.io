@@ -45,6 +45,16 @@ research:
       - title: "Ventral Visual Pathway"
         url: /research/CON2019/  
 
+sidebar_CN:
+  - title: Computational Neuroscience
+    url: /neuroscience/s01.cn_intro/
+    children:
+      - title: "Introduction"
+        url: /neuroscience/s01.cn_intro/
+      - title: "Neural code, neural encoding"
+        url: /neuroscience/s02.neural_encoding/
+
+
 sidebar_ML:
   - title: Supervised ML
     url: /machinelearning/w1.Supervised_Unsupervised_ML/
