@@ -46,7 +46,7 @@ research:
         url: /research/CON2019/  
 
 sidebar_CN:
-  - title: Computational Neuroscience
+  - title: What do neurons do?
     url: /neuroscience/s01.cn_intro/
     children:
       - title: "Introduction"
