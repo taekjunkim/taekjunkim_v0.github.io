@@ -53,6 +53,8 @@ sidebar_CN:
         url: /neuroscience/s01.cn_intro/
       - title: "Neural code, neural encoding"
         url: /neuroscience/s02.neural_encoding/
+      - title: "Entropy, mutual information"
+        url: /neuroscience/s03.mutual_information/
 
 
 sidebar_ML:
