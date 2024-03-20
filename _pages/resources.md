@@ -11,7 +11,7 @@ layout: single
 ---
 
 # Test
-<iframe width="80%" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
+<iframe width="80%" height="auto" aspect-ratio="2 / 1" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
 
 
 # Neuroscience for machine learners
