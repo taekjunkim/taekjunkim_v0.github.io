@@ -10,6 +10,9 @@ permalink: /resources/
 layout: single
 ---
 
+# Test
+{% include "/assets/images/test.html" %}
+
 
 # Neuroscience for machine learners
 <img width="33%" src="/assets/images/resources/Neuro4ML.png" style="float:left; margin-right:30px;">    
