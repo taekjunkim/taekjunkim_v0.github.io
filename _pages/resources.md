@@ -10,8 +10,9 @@ permalink: /resources/
 layout: single
 ---
 
-# Test
-<iframe width="800" height="400" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
+# Interactive plot test
+<iframe width="600" height="300" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
+<br clear="left"/><br>
 
 
 # Neuroscience for machine learners
