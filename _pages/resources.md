@@ -11,7 +11,7 @@ layout: single
 ---
 
 # Interactive plot test
-<iframe width="500" height="500" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
+<iframe width="650" height="450" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
 <br clear="left"/><br>
 
 
