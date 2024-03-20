@@ -11,7 +11,7 @@ layout: single
 ---
 
 # Test
-{% include "/assets/images/test.html" %}
+<iframe width="1000" height="750" frameborder="0" scrolling="yes" src="/assets/images/test.html"></iframe>
 
 
 # Neuroscience for machine learners
