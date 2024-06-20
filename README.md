@@ -1,4 +1,4 @@
-Original README page from Minimal Mistakes (the repository I forked from) is as below. 
+Original README page from [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) (the repository I forked from) is as below. 
 
 I made a few modification to display image carousel, etc. 
 
