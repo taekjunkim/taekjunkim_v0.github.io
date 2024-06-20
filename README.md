@@ -1,3 +1,8 @@
+Original README page from Minimal Mistakes (the repository I forked from) is as below. 
+I made a few modification to display image carousel, etc. 
+
+
+====================================================================================
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
