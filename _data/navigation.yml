@@ -18,6 +18,8 @@ main:
 research:
   - title: High Level Vision
     children:
+      - title: "Visual Crowding"
+        url: /research/JN2024/
       - title: "Global Motion Processing"
         url: /research/CB2023/
       - title: "Texture Perception"
