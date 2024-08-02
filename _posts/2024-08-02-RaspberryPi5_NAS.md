@@ -28,4 +28,4 @@ Popular NAS brands include Synology, QNAP, and Western Digital.
 However, I thought that Raspberry Pi NAS can be a cost-effective solution. 
 
 **Raspberry Pi** is a small, affordable single-board computer developed by the Raspberry Pi Foundation, a UK charity aimed at promoting computer science education. 
-Raspberry Pi 5 offers improved processing power (Broadcom BCM2712 quad-core ARM Cortex A76 processor @ 2.4GHz), memory (up to 8GB), and connectivity options, including USB 3.0, HDMI, Wi-Fi, bluetooth, and Gigabit Ethernet. Raspberry Pi can run various operating systems, including Raspberry Pi OS (formerly Raspbian), Ubuntu, and others. 
+Raspberry Pi 5 offers improved processing power (Broadcom BCM2712 quad-core ARM Cortex A76 processor @ 2.4GHz), memory (up to 8GB), and connectivity options, including USB 3.0, HDMI, Wi-Fi, bluetooth, and Gigabit Ethernet. Raspberry Pi can run various operating systems, including Raspberry Pi OS, Ubuntu, and others. 
