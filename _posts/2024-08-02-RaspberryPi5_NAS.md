@@ -52,7 +52,6 @@ My main idea was to mount an external hard drive on the Raspberry Pi running Ubu
 
 3. Install and configure Syncthing on Raspberry Pi
   - https://syncthing.net/
-  - 
 
 4. Install and configure Syncthing on smartphone
   - On Aug 1, both Sycnthing and Syncthing-fork were not available at Google Play store.
