@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Taekjun Kim"
 description              : "An amazing website."
-url                      : "https://taekjunkim_v0.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://taekjunkim.github.io/github_page_v0" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
